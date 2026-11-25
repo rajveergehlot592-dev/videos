@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:04,000
+CRASHING INTO A LAMPPOST!
+
+2
+00:00:04,000 --> 00:00:10,000
+Listen to that crunching metal audio!
+
+3
+00:00:10,000 --> 00:00:17,000
+Lucia jumping on the truck hood!
+
+4
+00:00:17,000 --> 00:00:25,000
+Realistic NPC panic and duck reactions!
+

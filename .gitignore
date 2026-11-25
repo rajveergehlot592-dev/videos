@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+test_*
+stream_url_*.txt
+video_info.json
+frame_*.jpg
+sample_frame_62s.jpg

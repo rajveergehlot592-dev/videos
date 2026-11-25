@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:04,000
+'Stay out of sight to avoid detection'
+
+2
+00:00:04,000 --> 00:00:10,000
+Sneaking into police impound yard...
+
+3
+00:00:10,000 --> 00:00:17,000
+Stepped directly into the police headlights!
+
+4
+00:00:17,000 --> 00:00:25,000
+ALARM BLARING! Stealth failed instantly!
+

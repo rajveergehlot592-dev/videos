@@ -1,0 +1,17 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Hook,Arial,66,&H0000FFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,6,3,8,30,30,55,1
+Style: Subtitle,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,6,3,2,40,40,220,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:25.00,Hook,,0,0,55,,{\c&H00FFFF&}GTA 6 COPS ARE MERCILESS! 🚨
+Dialogue: 0,0:00:00.00,0:00:04.00,Subtitle,,0,0,220,,{\c&H00FFFF&}FIRST {\c&HFFFFFF&}POLICE CHASE IN VICE CITY!
+Dialogue: 0,0:00:04.00,0:00:10.00,Subtitle,,0,0,220,,{\c&H00FFFF&}Police {\c&HFFFFFF&}AI is insanely aggressive!
+Dialogue: 0,0:00:10.00,0:00:17.00,Subtitle,,0,0,220,,{\c&H00FFFF&}Brutal {\c&HFFFFFF&}PIT maneuver out of nowhere!
+Dialogue: 0,0:00:17.00,0:00:25.00,Subtitle,,0,0,220,,{\c&H00FFFF&}BUSTED! {\c&HFFFFFF&}Pehli hi chase mein pakad liya!
