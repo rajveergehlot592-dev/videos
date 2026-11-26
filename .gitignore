@@ -5,3 +5,11 @@ stream_url_*.txt
 video_info.json
 frame_*.jpg
 sample_frame_62s.jpg
+live3_work/
+techno_work/
+gta6_clip_factory/.venv/
+gta6_clip_factory/frontend/node_modules/
+gta6_clip_factory/logs/
+gta6_clip_factory/media/working/
+gta6_clip_factory/projects/client_secrets.json
+gta6_clip_factory/projects/token.json
