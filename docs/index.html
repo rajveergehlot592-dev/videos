@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>VicePulse Uploader — Official App</title>
+  <style>
+    :root {
+      --bg: #0b0d14;
+      --card: #131724;
+      --border: #252b3d;
+      --text: #eef1f7;
+      --muted: #9aa4bf;
+      --accent: #ff3b6b;
+      --accent2: #7c5cff;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: radial-gradient(circle at top right, #1b1330, var(--bg) 60%);
+      color: var(--text);
+      line-height: 1.65;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 48px 20px;
+    }
+    .container {
+      width: 100%;
+      max-width: 780px;
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 36px;
+      box-shadow: 0 20px 60px rgba(0, 0, 0, 0.45);
+    }
+    .badge {
+      display: inline-block;
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      padding: 5px 12px;
+      border-radius: 999px;
+      background: rgba(255, 59, 107, 0.14);
+      color: #ff7498;
+      margin-bottom: 14px;
+    }
+    h1 { font-size: 32px; margin-bottom: 12px; }
+    h2 { font-size: 20px; margin: 24px 0 10px; color: #fff; }
+    p, li { color: var(--muted); font-size: 15px; }
+    ul { padding-left: 20px; margin-top: 8px; }
+    li { margin-bottom: 6px; }
+    .links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-top: 28px;
+      padding-top: 20px;
+      border-top: 1px solid var(--border);
+    }
+    a.btn {
+      display: inline-block;
+      padding: 10px 16px;
+      border-radius: 10px;
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 14px;
+      color: #fff;
+      background: linear-gradient(135deg, var(--accent), var(--accent2));
+    }
+    a.btn.secondary {
+      background: #1b2133;
+      border: 1px solid var(--border);
+      color: var(--text);
+    }
+    footer {
+      margin-top: 24px;
+      font-size: 13px;
+      color: var(--muted);
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <main class="container">
+    <span class="badge">YouTube Creator Automation</span>
+    <h1>VicePulse Uploader</h1>
+    <p>
+      <strong>VicePulse Uploader</strong> is the official publishing tool for the
+      <strong>VicePulse</strong> YouTube channel (<code>@VicePulseTV99</code>).
+      It automates preparing, scheduling, and uploading 1080p60 vertical Shorts and metadata
+      directly to YouTube via the official YouTube Data API v3.
+    </p>
+
+    <h2>What This Application Does</h2>
+    <ul>
+      <li>Uploads portrait 1080&times;1920 Shorts created in the GTA VI Clip Factory pipeline.</li>
+      <li>Applies optimized titles, descriptions, hashtags, and scheduled publish timestamps.</li>
+      <li>Requests only the authorized YouTube upload scope needed to publish to the creator's channel.</li>
+    </ul>
+
+    <h2>Contact &amp; Support</h2>
+    <p>
+      Developer / Channel Owner: <strong>Rajveer Gehlot</strong><br />
+      Support Email: <a href="mailto:rajveergehlot592@gmail.com" style="color:#ff7498;">rajveergehlot592@gmail.com</a><br />
+      Channel: <a href="https://www.youtube.com/@VicePulseTV99" style="color:#ff7498;">youtube.com/@VicePulseTV99</a>
+    </p>
+
+    <div class="links">
+      <a class="btn" href="./privacy.html">Privacy Policy</a>
+      <a class="btn secondary" href="./terms.html">Terms of Service</a>
+      <a class="btn secondary" href="https://github.com/rajveergehlot592-dev/videos" target="_blank" rel="noopener">GitHub Repository</a>
+    </div>
+  </main>
+  <footer>&copy; 2026 VicePulse Uploader &bull; All rights reserved.</footer>
+</body>
+</html>
