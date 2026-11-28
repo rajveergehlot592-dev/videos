@@ -1,10 +1,6 @@
 job_id,clip_id,source_filename,start_time,end_time,duration,layout,output_filename,status,resolution_verified,duration_verified,has_audio_verified
+exp_707bb2e3,ready_Speed_Reel_009,IShowSpeed — 24H GTA 6,0.0,26.0,26.0,blurred_bg,IShowSpeed — 24H GTA 6_ready_Speed_Reel_009_0s.mp4,completed,1080x1920,26.0,True
 exp_64bf0ad6,clip_c429b686,GTA 6: 10 Secret Locations You NEED TO VISIT,1336.0,1361.0,25.0,blurred_bg,GTA 6: 10 Secret Locatio_clip_c429b686_1336s.mp4,completed,1080x1920,25.0,True
-exp_9f353b1e,ready_Speed_Reel_010,IShowSpeed — 24H GTA 6,0.0,26.0,26.0,blurred_bg,IShowSpeed — 24H GTA 6_ready_Speed_Reel_010_0s.mp4,failed,,,
-exp_b4a9008a,ready_Speed_Reel_010,IShowSpeed — 24H GTA 6,0.0,26.0,26.0,blurred_bg,IShowSpeed — 24H GTA 6_ready_Speed_Reel_010_0s.mp4,failed,,,
-exp_c14299ae,ready_Speed_Reel_010,IShowSpeed — 24H GTA 6,0.0,26.0,26.0,blurred_bg,IShowSpeed — 24H GTA 6_ready_Speed_Reel_010_0s.mp4,failed,,,
-exp_e0e2976f,ready_Speed_Reel_005,IShowSpeed — 24H GTA 6,0.0,26.0,26.0,blurred_bg,IShowSpeed — 24H GTA 6_ready_Speed_Reel_005_0s.mp4,failed,,,
-exp_81d7a1f4,ready_Speed_Reel_010,IShowSpeed — 24H GTA 6,0.0,26.0,26.0,blurred_bg,IShowSpeed — 24H GTA 6_ready_Speed_Reel_010_0s.mp4,failed,,,
 exp_Speed_Reel_010,ready_Speed_Reel_010,IShowSpeed — 24H GTA 6,0.0,26.0,26.0,blurred_bg,Speed_Reel_010.mp4,completed,1080x1920,26.0,True
 exp_Speed_Reel_009,ready_Speed_Reel_009,IShowSpeed — 24H GTA 6,0.0,26.0,26.0,blurred_bg,Speed_Reel_009.mp4,completed,1080x1920,26.0,True
 exp_Speed_Reel_008,ready_Speed_Reel_008,IShowSpeed — 24H GTA 6,0.0,26.0,26.0,blurred_bg,Speed_Reel_008.mp4,completed,1080x1920,26.0,True

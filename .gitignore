@@ -13,3 +13,4 @@ gta6_clip_factory/logs/
 gta6_clip_factory/media/working/
 gta6_clip_factory/projects/client_secrets.json
 gta6_clip_factory/projects/token.json
+client_secret*.json

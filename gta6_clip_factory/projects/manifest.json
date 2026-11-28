@@ -3013,6 +3013,22 @@
   ],
   "export_jobs": [
     {
+      "id": "exp_707bb2e3",
+      "clip_id": "ready_Speed_Reel_009",
+      "recording_id": "yt_hwSg39yIBGU",
+      "output_filename": "IShowSpeed \u2014 24H GTA 6_ready_Speed_Reel_009_0s.mp4",
+      "output_path": "E:\\videos\\gta6_clip_factory\\media\\exports\\IShowSpeed \u2014 24H GTA 6_ready_Speed_Reel_009_0s.mp4",
+      "srt_path": null,
+      "status": "completed",
+      "progress": 100.0,
+      "error": null,
+      "duration_verified": 26.0,
+      "resolution_verified": "1080x1920",
+      "has_audio_verified": true,
+      "created_at": "2026-11-27T23:12:29.787989+00:00",
+      "completed_at": "2026-11-27T23:12:57.552365+00:00"
+    },
+    {
       "id": "exp_64bf0ad6",
       "clip_id": "clip_c429b686",
       "recording_id": "yt_as4GFUWe9cs",
